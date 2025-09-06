@@ -13,6 +13,7 @@ current_date = datetime.datetime.now()
 
 botID = 79  # <------ change this to your BOT ID
 
+
 # "https://blog.xrds.acm.org/wp-content/uploads/2018/07/kermit-gif.gif "
 
 #Timetable array holders
